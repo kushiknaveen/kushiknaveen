@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kushiknaveen
-- 👀 I’m interested in Finance, Investments, Data manipulation/Analysis
+- 👀 I’m interested in Data Science/Analytics, Finance, Investments
 - 🌱 I’m currently learning Data Science and Business Analytics
 - 💞️ I’m looking to collaborate on Python Projects
 - 📫 How to reach me LinkedIn : https://www.linkedin.com/in/kushik-naveen/
