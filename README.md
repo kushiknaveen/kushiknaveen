@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science/Analytics, Finance, Investments
 - 🌱 I’m currently learning Data Science and Business Analytics
 - 💞️ I’m looking to collaborate on Python Projects
-- 📫 How to reach me on LinkedIn : https://www.linkedin.com/in/kushik-naveen/
+- 📫 Connect with me on LinkedIn : https://www.linkedin.com/in/kushik-naveen/
 
 <!---
 kushiknaveen/kushiknaveen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
